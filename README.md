@@ -1,0 +1,34 @@
+# Sebastian Javier – Crystal Ball
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:13.29] If my heart bruises, everybody loses
+[00:18.89] Oh-oh, I can't stress enough
+[00:32.89] 
+[00:26.25] And on the weekend, everyone's my best friend
+[00:32.04] Oh-oh, I don't believe them
+[00:39.91] If I can't see the end, I can't see the beginnin'
+[00:46.63] There's no crystal ball to see the happy ending
+[00:53.16] I know I can't say that this will last forever
+[00:59.25] But I need you to know, I don't want you to go
+[01:05.15] If my hand loses, everybody bruises
+[01:10.90] Oh-oh, you gotta believe me
+[01:24.40] 
+[01:18.06] And if the house wins, everybody else sins
+[01:23.90] Oh-oh, that's just the city
+[01:37.40] 
+[01:31.89] If I can't see the end, I can't see the beginnin'
+[01:38.36] There's no crystal ball to see the happy ending
+[01:44.98] I know I can't say that this will last forever
+[01:50.97] But I need you to know, I don't want you to go
+[02:13.97] 
+[02:08.92] It's not in the cards, there's no crystal ball
+[02:12.12] There's no way to predict who will take it all
+[02:15.27] Can't always have what you want, you know it's fun to try
+[02:18.66] I see you gettin' turned on, I know the reason why
+[02:22.84] If my heart bruises, everybody loses
+[02:28.66] Oh-oh, you gotta believe me
+[02:35.81] And on the weekend, everyone's your best friend
+[02:41.66] Oh-oh, I don't believe them
+```
