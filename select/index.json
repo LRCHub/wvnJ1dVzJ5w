@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Crystal Ball",
+  "base_artist": "Sebastian Javier",
+  "createdAt": "2025-12-01T05:09:51.284618Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crystal Ball",
+      "artist": "Mike",
+      "has_synced": false,
+      "path": "select/01_Crystal_Ball_Mike.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crystal Ball",
+      "artist": "Go West",
+      "has_synced": true,
+      "path": "select/02_Crystal_Ball_Go_West.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Crystal Ball",
+      "artist": "Grimes",
+      "has_synced": true,
+      "path": "select/03_Crystal_Ball_Grimes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Crystal Ball",
+      "artist": "Lenka",
+      "has_synced": true,
+      "path": "select/04_Crystal_Ball_Lenka.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Crystal Ball (7\" Mix - 2020 Remaster)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/05_Crystal_Ball_(7__Mix_-_2020_Remaster)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Crystal Ball (7\" Mix)  (2020 Remaster)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/06_Crystal_Ball_(7__Mix)_(2020_Remaster)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crystal Ball",
+      "artist": "Yngwie J. Malmsteen’s Rising Force",
+      "has_synced": true,
+      "path": "select/07_Crystal_Ball_Yngwie_J._Malmsteen’s_Rising_Force.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Crystal Ball",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": false,
+      "path": "select/08_Crystal_Ball_Yngwie_Malmsteen.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Crystal Ball",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": false,
+      "path": "select/09_Crystal_Ball_Yngwie_Malmsteen.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Crystal Ball",
+      "artist": "Candlemass",
+      "has_synced": false,
+      "path": "select/10_Crystal_Ball_Candlemass.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crystal Ball (Live)",
+      "artist": "Candlemass",
+      "has_synced": false,
+      "path": "select/11_Crystal_Ball_(Live)_Candlemass.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Crystal Ball",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/12_Crystal_Ball_Prince.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Crystal Ball (7\" Mix)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/13_Crystal_Ball_(7__Mix)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Crystal Ball",
+      "artist": "The King Khan & BBQ Show",
+      "has_synced": false,
+      "path": "select/14_Crystal_Ball_The_King_Khan_&_BBQ_Show.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Crystal Ball",
+      "artist": "Verdena",
+      "has_synced": true,
+      "path": "select/15_Crystal_Ball_Verdena.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Crystal Ball",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/16_Crystal_Ball_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Crystal Ball",
+      "artist": "Styx",
+      "has_synced": false,
+      "path": "select/17_Crystal_Ball_Styx.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Crystal Ball",
+      "artist": "Death from Above 1979",
+      "has_synced": true,
+      "path": "select/18_Crystal_Ball_Death_from_Above_1979.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Crystal Ball (Out-Take)",
+      "artist": "Uriah Heep",
+      "has_synced": false,
+      "path": "select/19_Crystal_Ball_(Out-Take)_Uriah_Heep.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Crystal Ball",
+      "artist": "Death from Above 1979",
+      "has_synced": false,
+      "path": "select/pl_01_Crystal_Ball_Death_from_Above_1979.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Crystal Ball",
+      "artist": "Death from Above 1979",
+      "has_synced": false,
+      "path": "select/pl_02_Crystal_Ball_Death_from_Above_1979.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Crystal Ball",
+      "artist": "Death from Above 1979",
+      "has_synced": false,
+      "path": "select/pl_03_Crystal_Ball_Death_from_Above_1979.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Crystal Ball",
+      "artist": "Death from Above 1979",
+      "has_synced": false,
+      "path": "select/pl_04_Crystal_Ball_Death_from_Above_1979.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Crystal Ball",
+      "artist": "Death from Above 1979",
+      "has_synced": false,
+      "path": "select/pl_05_Crystal_Ball_Death_from_Above_1979.txt"
+    }
+  ]
+}
